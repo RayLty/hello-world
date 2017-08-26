@@ -1,3 +1,4 @@
-# hello-world
-Just another repository
-I'm a huge fan of F.C.Barcelona
+# Try edit this on Git hub
+
+## Finally done with CS50 and about to use github
+
